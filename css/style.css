@@ -358,6 +358,7 @@ header img {
 
 .sec6-btn {
     height: 48px;
+    width: 100%;
     background-color: #fc3;
     box-shadow: 0 4px 0 #dfae08;
     border-radius: 4px;
